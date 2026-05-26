@@ -1,0 +1,9 @@
+inventory.db
+data/
+logs/
+powerbi/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+Thumbs.db
